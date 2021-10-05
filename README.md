@@ -1,3 +1,2 @@
-# snyk-on-aws-workshop-2021
+# DevSecops on AWS with River Point Technology and Snyk
 
-Getting started with Snyk Infrastructure as Code (IaC)
